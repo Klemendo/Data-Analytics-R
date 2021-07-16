@@ -1,2 +1,2 @@
 # Data-Analytics-R
-First Looks a Data Analytics Practical With R Programming
+First Looks at Data Analytics Practical With R Programming
